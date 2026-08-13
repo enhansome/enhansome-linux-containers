@@ -1,0 +1,846 @@
+{
+  "items": [
+    {
+      "description": "Hello, everyone! My name is Filipp, and I have been working with high load distribution systems and services, security, monitoring, continuous deployment and release management (DevOps domain) since 2012.\nOne of my passions is developing DevOps solutions and contributing to the open-source community. By sharing my knowledge and experiences, I strive to save time for both myself and others while fostering a culture of collaboration and learning.\nI had to leave my home country, Belarus, due to my participation in protests against the oppressive regime of dictator Lukashenko, who maintains a close affiliation with Putin. Since then, I'm trying to build my life from zero in other countries.\nIf you are seeking a skilled DevOps lead or architect to enhance your project, I invite you to connect with me on LinkedIn or explore my valuable contributions on GitHub. Let's collaborate and create some cool solutions together :)",
+      "items": [],
+      "title": "About the Author"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "App Container basics",
+          "description": "App Container (appc) is an open specification that defines several aspects of how to run applications in containers: an image format, runtime environment, and discovery protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-02-24T14:16:05Z",
+            "owner": "rkt",
+            "repo": "rkt",
+            "stars": 8769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Container Specifications",
+          "description": "This project is where the Open Container Initiative Specifications are written. This is a work in progress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-24T18:48:18Z",
+            "owner": "opencontainers",
+            "repo": "runtime-spec",
+            "stars": 3663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloud Native Application Bundle Specification",
+          "description": "A package format specification that describes a technology for bundling, installing, and managing distributed applications, that are by design, cloud agnostic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-09-09T11:21:14Z",
+            "owner": "cnabio",
+            "repo": "cnab-spec",
+            "stars": 972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nulecule Specification",
+          "description": "Nulecule defines a pattern and model for packaging complex multi-container applications and services, referencing all their dependencies, including orchestration metadata in a container image for building, deploying, monitoring, and active management.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-03-07T10:08:08Z",
+            "owner": "projectatomic",
+            "repo": "atomicapp",
+            "stars": 104
+          }
+        }
+      ],
+      "title": "Specifications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Docker",
+          "description": "An open platform for distributed applications for developers and sysadmins. Standard de facto.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T22:24:33Z",
+            "owner": "veggiemonk",
+            "repo": "awesome-docker",
+            "stars": 36626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LXD",
+          "description": "Daemon based on liblxc offering a REST API to manage LXC containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:39:24Z",
+            "owner": "lxc",
+            "repo": "incus",
+            "stars": 5927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lithos",
+          "description": "Lithos is a process supervisor and containerizer for running services. It is not intended to be system init, but rather tries to be a base tool to build container orchestration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2019-03-13T15:39:36Z",
+            "owner": "tailhook",
+            "repo": "lithos",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiDocker",
+          "description": "Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2018-11-27T15:12:56Z",
+            "owner": "marty90",
+            "repo": "multidocker",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Hypervisors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "firecracker",
+          "description": "Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T14:23:40Z",
+            "owner": "firecracker-microvm",
+            "repo": "firecracker",
+            "stars": 36028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "podman",
+          "description": "Full management of container lifecycle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:55:41Z",
+            "owner": "podman-container-tools",
+            "repo": "podman",
+            "stars": 32547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "runc",
+          "description": "runc is a CLI tool for spawning and running containers according to the OCS specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T00:19:15Z",
+            "owner": "opencontainers",
+            "repo": "runc",
+            "stars": 13399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bocker",
+          "description": "Docker implemented in around 100 lines of bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-12-09T14:16:38Z",
+            "owner": "p8952",
+            "repo": "bocker",
+            "stars": 12662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rocket",
+          "description": "rkt (pronounced \"rock-it\") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-02-24T14:16:05Z",
+            "owner": "rkt",
+            "repo": "rkt",
+            "stars": 8769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "youki",
+          "description": "A container runtime written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T00:58:28Z",
+            "owner": "youki-dev",
+            "repo": "youki",
+            "stars": 7534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LXC",
+          "description": "LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-23T12:48:58Z",
+            "owner": "lxc",
+            "repo": "lxc",
+            "stars": 5239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sysbox",
+          "description": "Sysbox is a \"runc\" that creates secure (rootless) containers / pods that run not just microservices, but most workloads that run in VMs (e.g., systemd, Docker, and Kubernetes), seamlessly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-31T23:06:53Z",
+            "owner": "nestybox",
+            "repo": "sysbox",
+            "stars": 3823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Let Me Contain That For You",
+          "description": "LMCTFY is the open source version of Google’s container stack, which provides Linux application containers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2015-06-29T07:36:26Z",
+            "owner": "google",
+            "repo": "lmctfy",
+            "stars": 3403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vagga",
+          "description": "Vagga is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-31T06:13:55Z",
+            "owner": "tailhook",
+            "repo": "vagga",
+            "stars": 1891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "udocker",
+          "description": "A basic user tool to execute simple containers in batch or interactive systems without root privileges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-13T17:21:57Z",
+            "owner": "indigo-dc",
+            "repo": "udocker",
+            "stars": 1773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "footloose",
+          "description": "Containers that look like Virtual Machines.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-08-29T13:44:17Z",
+            "owner": "weaveworks",
+            "repo": "footloose",
+            "stars": 1586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "railcar",
+          "description": "Railcar is a rust implementation of the opencontainers initiative's runtime spec. It is similar to the reference implementation runc, but it is implemented completely in rust for memory safety without needing the overhead of a garbage collector or multiple threads.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2019-10-15T03:08:17Z",
+            "owner": "oracle",
+            "repo": "railcar",
+            "stars": 1119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "runv",
+          "description": "Hypervisor-based (KVM, Xen, QEMU) Runtime for OCI. Security by isolation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-02-08T10:37:27Z",
+            "owner": "hyperhq",
+            "repo": "runv",
+            "stars": 831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cc-oci-runtime",
+          "description": "Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2017-09-25T15:53:49Z",
+            "owner": "intel",
+            "repo": "cc-oci-runtime",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "porto",
+          "description": "The main goal of Porto is to create a convenient, reliable interface over several Linux kernel mechanism such as cgroups, namespaces, mounts, networking etc.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-01-20T09:43:15Z",
+            "owner": "yandex",
+            "repo": "porto",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plash",
+          "description": "Lightweight, rootless containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-20T15:47:21Z",
+            "owner": "ihucos",
+            "repo": "plash",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libct",
+          "description": "Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-10-06T11:44:13Z",
+            "owner": "xemul",
+            "repo": "libct",
+            "stars": 108
+          }
+        }
+      ],
+      "title": "Containers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bubblewrap",
+          "description": "Run applications in a sandbox using Linux namespaces without root privileges, with user namespacing provided via setuid binary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-02T18:05:07Z",
+            "owner": "containers",
+            "repo": "bubblewrap",
+            "stars": 8341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NsJail",
+          "description": "NsJail is a process isolation tool for Linux. It makes use of the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-27T07:09:10Z",
+            "owner": "google",
+            "repo": "nsjail",
+            "stars": 4046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "singularity",
+          "description": "Universal application containers for Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-10-10T17:53:01Z",
+            "owner": "apptainer",
+            "repo": "singularity",
+            "stars": 2618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subuser",
+          "description": "Securing the Linux desktop with Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-23T11:31:31Z",
+            "owner": "subuser-security",
+            "repo": "subuser",
+            "stars": 895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lxroot",
+          "description": "Lxroot is a flexible, lightweight, and safer alternative to chroot and/or Docker for non-root users on Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-25T22:46:32Z",
+            "owner": "parke",
+            "repo": "lxroot",
+            "stars": 121
+          }
+        }
+      ],
+      "title": "Sandboxes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Moby",
+          "description": "A \"Lego set\" of toolkit components for containers software created by Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:25:04Z",
+            "owner": "moby",
+            "repo": "moby",
+            "stars": 72009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-nsenter",
+          "description": "This Python package allows entering Linux kernel namespaces (mount, IPC, net, PID, user and UTS) by doing the \"setns\" syscall.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-27T16:18:56Z",
+            "owner": "zalando",
+            "repo": "python-nsenter",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyspaces",
+          "description": "Works with Linux namespaces through glibc with pure python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-03-05T17:21:40Z",
+            "owner": "Friz-zy",
+            "repo": "pyspaces",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "Partial Access"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dive",
+          "description": "A tool for exploring each layer in a docker image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-15T17:20:36Z",
+            "owner": "wagoodman",
+            "repo": "dive",
+            "stars": 54451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kaniko",
+          "description": "Kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-06-03T14:36:10Z",
+            "owner": "GoogleContainerTools",
+            "repo": "kaniko",
+            "stars": 15781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skopeo",
+          "description": "Work with remote images registries - retrieving information, images, signing content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:31:15Z",
+            "owner": "podman-container-tools",
+            "repo": "skopeo",
+            "stars": 11155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "buildah",
+          "description": "A tool which facilitates building OCI container images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:26:50Z",
+            "owner": "podman-container-tools",
+            "repo": "buildah",
+            "stars": 8977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-containerregistry",
+          "description": "Go library and CLIs for working with container registries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T02:39:19Z",
+            "owner": "google",
+            "repo": "go-containerregistry",
+            "stars": 4009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "img",
+          "description": "Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-19T22:07:07Z",
+            "owner": "genuinetools",
+            "repo": "img",
+            "stars": 3989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "container-diff",
+          "description": "A tool for analyzing and comparing container images.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-03-27T18:02:22Z",
+            "owner": "GoogleContainerTools",
+            "repo": "container-diff",
+            "stars": 3801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whaler",
+          "description": "Whaler is designed to reverse engineer a Docker Image into the Dockerfile that created it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-08T19:28:12Z",
+            "owner": "P3GLEG",
+            "repo": "Whaler",
+            "stars": 1189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dgr",
+          "description": "Command line utility designed to build and to configure at runtime App Containers Images (ACI) and App Container Pods (POD) based on convention over configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-03-12T15:13:59Z",
+            "owner": "blablacar",
+            "repo": "dgr",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker pushrm",
+          "description": "A Docker CLI plugin that that lets you push the README.md file from the current directory to a container registry. Supports Docker Hub, Quay and Harbor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-10T21:42:09Z",
+            "owner": "christian-korneck",
+            "repo": "docker-pushrm",
+            "stars": 152
+          }
+        }
+      ],
+      "title": "Filesystem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "portainer",
+          "description": "Lightweight Docker management UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:04:41Z",
+            "owner": "portainer",
+            "repo": "portainer",
+            "stars": 38225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swarmpit",
+          "description": "Lightweight mobile-friendly Docker Swarm management UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-01T19:51:22Z",
+            "owner": "swarmpit",
+            "repo": "swarmpit",
+            "stars": 3484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liman",
+          "description": "Basic docker monitoring web application.",
+          "children": []
+        }
+      ],
+      "title": "Dashboard"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gvisor",
+          "description": "gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:36:58Z",
+            "owner": "google",
+            "repo": "gvisor",
+            "stars": 19069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker bench security",
+          "description": "The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-04T18:11:52Z",
+            "owner": "docker",
+            "repo": "docker-bench-security",
+            "stars": 9686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goss",
+          "description": "Quick and Easy server testing/validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T08:55:14Z",
+            "owner": "goss-org",
+            "repo": "goss",
+            "stars": 5946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bane",
+          "description": "Custom AppArmor profile generator for docker containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-09-17T20:10:45Z",
+            "owner": "genuinetools",
+            "repo": "bane",
+            "stars": 1230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-explorer",
+          "description": "A tool to help forensicate offline docker acquisitions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-10-04T07:44:31Z",
+            "owner": "google",
+            "repo": "docker-explorer",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oci-seccomp-bpf-hook",
+          "description": "OCI hook to trace syscalls and generate a seccomp profile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-02T13:35:21Z",
+            "owner": "containers",
+            "repo": "oci-seccomp-bpf-hook",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSCAP",
+          "description": "The OpenSCAP ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement and enforcement of security baselines.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2016-12-02T19:05:00Z",
+            "owner": "OpenSCAP",
+            "repo": "container-compliance",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sockguard",
+          "description": "A proxy for docker.sock that enforces access control and isolated privileges.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-08-24T01:25:51Z",
+            "owner": "buildkite",
+            "repo": "sockguard",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drydock",
+          "description": "Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-05-13T18:35:52Z",
+            "owner": "zuBux",
+            "repo": "drydock",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:58.010Z",
+    "original_repository": "Friz-zy/awesome-linux-containers",
+    "original_repository_sha": "11e077a0e03327cecd6c1f2385d9e5318eb6b662",
+    "enhanced_repository": "enhansome/enhansome-linux-containers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Linux Containers with stars"
+  }
+}

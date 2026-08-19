@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Hello, everyone! My name is Filipp, and I have been working with high load distribution systems and services, security, monitoring, continuous deployment and release management (DevOps domain) since 2012.\nOne of my passions is developing DevOps solutions and contributing to the open-source community. By sharing my knowledge and experiences, I strive to save time for both myself and others while fostering a culture of collaboration and learning.\nI had to leave my home country, Belarus, due to my participation in protests against the oppressive regime of dictator Lukashenko, who maintains a close affiliation with Putin. Since then, I'm trying to build my life from zero in other countries.\nIf you are seeking a skilled DevOps lead or architect to enhance your project, I invite you to connect with me on LinkedIn or explore my valuable contributions on GitHub. Let's collaborate and create some cool solutions together :)",
-      "items": [],
-      "title": "About the Author"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26509369,
             "language": "Go",
             "last_commit": "2020-02-24T14:16:05Z",
             "owner": "rkt",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36960293,
             "language": "Go",
             "last_commit": "2026-04-24T18:48:18Z",
             "owner": "opencontainers",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154720714,
             "language": "Shell",
             "last_commit": "2022-09-09T11:21:14Z",
             "owner": "cnabio",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32819266,
             "language": "Python",
             "last_commit": "2017-03-07T10:08:08Z",
             "owner": "projectatomic",
@@ -68,7 +67,7 @@
       "title": "Specifications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -77,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24297122,
             "language": null,
             "last_commit": "2026-08-18T20:54:04Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36663
+            "stars": 36668
           }
         },
         {
@@ -91,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 669486760,
             "language": "Go",
             "last_commit": "2026-08-18T20:29:29Z",
             "owner": "lxc",
             "repo": "incus",
-            "stars": 5980
+            "stars": 5981
           }
         },
         {
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29541696,
             "language": "Rust",
             "last_commit": "2019-03-13T15:39:36Z",
             "owner": "tailhook",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95304830,
             "language": "Dockerfile",
             "last_commit": "2018-11-27T15:12:56Z",
             "owner": "marty90",
@@ -130,7 +133,7 @@
       "title": "Hypervisors"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -139,11 +142,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107505869,
             "language": "Rust",
-            "last_commit": "2026-08-19T00:39:16Z",
+            "last_commit": "2026-08-19T10:47:59Z",
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36128
+            "stars": 36138
           }
         },
         {
@@ -153,11 +157,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109145553,
             "language": "Go",
-            "last_commit": "2026-08-19T00:31:35Z",
+            "last_commit": "2026-08-19T11:20:41Z",
             "owner": "podman-container-tools",
             "repo": "podman",
-            "stars": 32620
+            "stars": 32629
           }
         },
         {
@@ -167,11 +172,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36960321,
             "language": "Go",
-            "last_commit": "2026-08-18T23:56:05Z",
+            "last_commit": "2026-08-19T09:35:08Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13406
+            "stars": 13408
           }
         },
         {
@@ -181,11 +187,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39103837,
             "language": "Shell",
             "last_commit": "2017-12-09T14:16:38Z",
             "owner": "p8952",
             "repo": "bocker",
-            "stars": 12664
+            "stars": 12663
           }
         },
         {
@@ -195,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26509369,
             "language": "Go",
             "last_commit": "2020-02-24T14:16:05Z",
             "owner": "rkt",
@@ -209,11 +217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 352051262,
             "language": "Rust",
             "last_commit": "2026-08-18T00:44:57Z",
             "owner": "youki-dev",
             "repo": "youki",
-            "stars": 7551
+            "stars": 7555
           }
         },
         {
@@ -223,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5720995,
             "language": "C",
             "last_commit": "2026-08-18T13:36:20Z",
             "owner": "lxc",
@@ -237,11 +247,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284555713,
             "language": "Shell",
             "last_commit": "2026-08-15T19:37:38Z",
             "owner": "nestybox",
             "repo": "sysbox",
-            "stars": 3831
+            "stars": 3832
           }
         },
         {
@@ -251,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12872299,
             "language": "C++",
             "last_commit": "2015-06-29T07:36:26Z",
             "owner": "google",
@@ -265,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22660519,
             "language": "Rust",
             "last_commit": "2023-03-31T06:13:55Z",
             "owner": "tailhook",
@@ -279,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57313402,
             "language": "Python",
             "last_commit": "2025-08-13T17:21:57Z",
             "owner": "indigo-dc",
@@ -293,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 168339205,
             "language": "Go",
             "last_commit": "2023-08-29T13:44:17Z",
             "owner": "weaveworks",
@@ -307,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 95492579,
             "language": "Rust",
             "last_commit": "2019-10-15T03:08:17Z",
             "owner": "oracle",
@@ -321,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 39879019,
             "language": "Go",
             "last_commit": "2021-02-08T10:37:27Z",
             "owner": "hyperhq",
@@ -335,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62701840,
             "language": "C",
             "last_commit": "2017-09-25T15:53:49Z",
             "owner": "intel",
@@ -349,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41472626,
             "language": "C++",
             "last_commit": "2023-01-20T09:43:15Z",
             "owner": "yandex",
@@ -363,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90044689,
             "language": "C",
             "last_commit": "2025-03-20T15:47:21Z",
             "owner": "ihucos",
@@ -377,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18364357,
             "language": "C",
             "last_commit": "2017-10-06T11:44:13Z",
             "owner": "xemul",
@@ -388,7 +409,7 @@
       "title": "Containers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -397,11 +418,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51868010,
             "language": "C",
             "last_commit": "2026-06-02T18:05:07Z",
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8411
+            "stars": 8417
           }
         },
         {
@@ -411,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35638505,
             "language": "C++",
             "last_commit": "2026-07-27T07:09:10Z",
             "owner": "google",
@@ -425,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43982667,
             "language": "Go",
             "last_commit": "2022-10-10T17:53:01Z",
             "owner": "apptainer",
@@ -439,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16678519,
             "language": "Python",
             "last_commit": "2025-02-23T11:31:31Z",
             "owner": "subuser-security",
@@ -453,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237704413,
             "language": "C++",
             "last_commit": "2025-04-25T22:46:32Z",
             "owner": "parke",
@@ -464,7 +490,7 @@
       "title": "Sandboxes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -473,8 +499,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7691631,
             "language": "Go",
-            "last_commit": "2026-08-18T16:07:50Z",
+            "last_commit": "2026-08-19T12:03:01Z",
             "owner": "moby",
             "repo": "moby",
             "stars": 71984
@@ -487,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24053999,
             "language": "Python",
             "last_commit": "2020-03-27T16:18:56Z",
             "owner": "zalando",
@@ -501,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33810029,
             "language": "Python",
             "last_commit": "2018-03-05T17:21:40Z",
             "owner": "Friz-zy",
@@ -512,7 +541,7 @@
       "title": "Partial Access"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -521,11 +550,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133251103,
             "language": "Go",
             "last_commit": "2025-12-15T17:20:36Z",
             "owner": "wagoodman",
             "repo": "dive",
-            "stars": 54473
+            "stars": 54474
           }
         },
         {
@@ -535,11 +565,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 119419195,
             "language": "Go",
             "last_commit": "2025-06-03T14:36:10Z",
             "owner": "GoogleContainerTools",
             "repo": "kaniko",
-            "stars": 15779
+            "stars": 15776
           }
         },
         {
@@ -549,11 +580,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53356367,
             "language": "Go",
             "last_commit": "2026-08-18T17:06:28Z",
             "owner": "podman-container-tools",
             "repo": "skopeo",
-            "stars": 11173
+            "stars": 11176
           }
         },
         {
@@ -563,8 +595,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80134675,
             "language": "Go",
-            "last_commit": "2026-08-17T13:16:12Z",
+            "last_commit": "2026-08-19T01:59:32Z",
             "owner": "podman-container-tools",
             "repo": "buildah",
             "stars": 8990
@@ -577,11 +610,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125253663,
             "language": "Go",
-            "last_commit": "2026-08-19T00:44:58Z",
+            "last_commit": "2026-08-19T02:33:21Z",
             "owner": "google",
             "repo": "go-containerregistry",
-            "stars": 4015
+            "stars": 4016
           }
         },
         {
@@ -591,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113604197,
             "language": "Go",
             "last_commit": "2024-05-19T22:07:07Z",
             "owner": "genuinetools",
@@ -605,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 99612558,
             "language": "Go",
             "last_commit": "2024-03-27T18:02:22Z",
             "owner": "GoogleContainerTools",
@@ -619,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136115520,
             "language": "Go",
             "last_commit": "2026-04-08T19:28:12Z",
             "owner": "P3GLEG",
@@ -633,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 38881222,
             "language": "Go",
             "last_commit": "2021-03-12T15:13:59Z",
             "owner": "blablacar",
@@ -647,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267186658,
             "language": "Go",
             "last_commit": "2024-06-10T21:42:09Z",
             "owner": "christian-korneck",
@@ -658,7 +697,7 @@
       "title": "Filesystem"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -667,11 +706,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59239347,
             "language": "TypeScript",
             "last_commit": "2026-08-18T13:16:00Z",
             "owner": "portainer",
             "repo": "portainer",
-            "stars": 38268
+            "stars": 38271
           }
         },
         {
@@ -681,163 +721,170 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81071976,
             "language": "Clojure",
             "last_commit": "2026-07-01T19:51:22Z",
             "owner": "swarmpit",
             "repo": "swarmpit",
-            "stars": 3484
+            "stars": 3485
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Liman",
-          "description": "Basic docker monitoring web application.",
-          "children": []
         }
       ],
       "title": "Dashboard"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Security"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "gvisor",
-          "description": "gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-19T01:43:00Z",
-            "owner": "google",
-            "repo": "gvisor",
-            "stars": 19109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Docker bench security",
-          "description": "The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-06-04T18:11:52Z",
-            "owner": "docker",
-            "repo": "docker-bench-security",
-            "stars": 9691
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "goss",
-          "description": "Quick and Easy server testing/validation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T20:46:04Z",
-            "owner": "goss-org",
-            "repo": "goss",
-            "stars": 5949
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bane",
-          "description": "Custom AppArmor profile generator for docker containers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-09-17T20:10:45Z",
-            "owner": "genuinetools",
-            "repo": "bane",
-            "stars": 1230
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docker-explorer",
-          "description": "A tool to help forensicate offline docker acquisitions.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-10-04T07:44:31Z",
-            "owner": "google",
-            "repo": "docker-explorer",
-            "stars": 555
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oci-seccomp-bpf-hook",
-          "description": "OCI hook to trace syscalls and generate a seccomp profile.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T11:05:48Z",
-            "owner": "containers",
-            "repo": "oci-seccomp-bpf-hook",
-            "stars": 348
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenSCAP",
-          "description": "The OpenSCAP ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement and enforcement of security baselines.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2016-12-02T19:05:00Z",
-            "owner": "OpenSCAP",
-            "repo": "container-compliance",
-            "stars": 242
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sockguard",
-          "description": "A proxy for docker.sock that enforces access control and isolated privileges.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2021-08-24T01:25:51Z",
-            "owner": "buildkite",
-            "repo": "sockguard",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drydock",
-          "description": "Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-05-13T18:35:52Z",
-            "owner": "zuBux",
-            "repo": "drydock",
-            "stars": 66
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gvisor",
+              "description": "gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131212638,
+                "language": "Go",
+                "last_commit": "2026-08-19T07:34:53Z",
+                "owner": "google",
+                "repo": "gvisor",
+                "stars": 19113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker bench security",
+              "description": "The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35394510,
+                "language": "Shell",
+                "last_commit": "2026-06-04T18:11:52Z",
+                "owner": "docker",
+                "repo": "docker-bench-security",
+                "stars": 9692
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "goss",
+              "description": "Quick and Easy server testing/validation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43526066,
+                "language": "Go",
+                "last_commit": "2026-08-19T08:28:33Z",
+                "owner": "goss-org",
+                "repo": "goss",
+                "stars": 5949
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bane",
+              "description": "Custom AppArmor profile generator for docker containers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43922256,
+                "language": "Go",
+                "last_commit": "2020-09-17T20:10:45Z",
+                "owner": "genuinetools",
+                "repo": "bane",
+                "stars": 1230
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docker-explorer",
+              "description": "A tool to help forensicate offline docker acquisitions.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 133632679,
+                "language": "Python",
+                "last_commit": "2024-10-04T07:44:31Z",
+                "owner": "google",
+                "repo": "docker-explorer",
+                "stars": 555
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oci-seccomp-bpf-hook",
+              "description": "OCI hook to trace syscalls and generate a seccomp profile.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209999677,
+                "language": "Go",
+                "last_commit": "2026-08-17T11:05:48Z",
+                "owner": "containers",
+                "repo": "oci-seccomp-bpf-hook",
+                "stars": 348
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenSCAP",
+              "description": "The OpenSCAP ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement and enforcement of security baselines.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 31615206,
+                "language": "Shell",
+                "last_commit": "2016-12-02T19:05:00Z",
+                "owner": "OpenSCAP",
+                "repo": "container-compliance",
+                "stars": 242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sockguard",
+              "description": "A proxy for docker.sock that enforces access control and isolated privileges.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 112824786,
+                "language": "Go",
+                "last_commit": "2021-08-24T01:25:51Z",
+                "owner": "buildkite",
+                "repo": "sockguard",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drydock",
+              "description": "Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44819795,
+                "language": "Python",
+                "last_commit": "2016-05-13T18:35:52Z",
+                "owner": "zuBux",
+                "repo": "drydock",
+                "stars": 66
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
         }
       ],
-      "title": "Tools"
+      "title": "Security"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:47:53.083Z",
+    "last_updated": "2026-08-19T12:37:54.711Z",
     "original_repository": "Friz-zy/awesome-linux-containers",
+    "original_repository_id": 40815285,
     "original_repository_sha": "11e077a0e03327cecd6c1f2385d9e5318eb6b662",
     "enhanced_repository": "enhansome/enhansome-linux-containers",
     "enhanced_repository_description": null,

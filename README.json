@@ -15,7 +15,7 @@
             "last_commit": "2020-02-24T14:16:05Z",
             "owner": "rkt",
             "repo": "rkt",
-            "stars": 8766
+            "stars": 8767
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36682
+            "stars": 36692
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 669486760,
             "language": "Go",
-            "last_commit": "2026-08-22T00:30:17Z",
+            "last_commit": "2026-08-23T01:07:49Z",
             "owner": "lxc",
             "repo": "incus",
-            "stars": 5996
+            "stars": 6004
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-21T12:41:40Z",
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36198
+            "stars": 36208
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-21T22:35:21Z",
             "owner": "podman-container-tools",
             "repo": "podman",
-            "stars": 32660
+            "stars": 32668
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-20T04:52:25Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13407
+            "stars": 13408
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2020-02-24T14:16:05Z",
             "owner": "rkt",
             "repo": "rkt",
-            "stars": 8766
+            "stars": 8767
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-21T11:22:55Z",
             "owner": "youki-dev",
             "repo": "youki",
-            "stars": 7559
+            "stars": 7560
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-20T13:56:40Z",
             "owner": "lxc",
             "repo": "lxc",
-            "stars": 5245
+            "stars": 5246
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-15T19:37:38Z",
             "owner": "nestybox",
             "repo": "sysbox",
-            "stars": 3834
+            "stars": 3833
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2025-08-13T17:21:57Z",
             "owner": "indigo-dc",
             "repo": "udocker",
-            "stars": 1779
+            "stars": 1780
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-06-02T18:05:07Z",
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8451
+            "stars": 8455
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2026-07-27T07:09:10Z",
             "owner": "google",
             "repo": "nsjail",
-            "stars": 4064
+            "stars": 4065
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2022-10-10T17:53:01Z",
             "owner": "apptainer",
             "repo": "singularity",
-            "stars": 2619
+            "stars": 2620
           }
         },
         {
@@ -501,7 +501,7 @@
             "archived": false,
             "id": 7691631,
             "language": "Go",
-            "last_commit": "2026-08-21T15:36:56Z",
+            "last_commit": "2026-08-22T22:28:30Z",
             "owner": "moby",
             "repo": "moby",
             "stars": 71993
@@ -555,7 +555,7 @@
             "last_commit": "2025-12-15T17:20:36Z",
             "owner": "wagoodman",
             "repo": "dive",
-            "stars": 54481
+            "stars": 54484
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-08-20T16:14:30Z",
             "owner": "podman-container-tools",
             "repo": "skopeo",
-            "stars": 11179
+            "stars": 11184
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-21T02:38:17Z",
             "owner": "podman-container-tools",
             "repo": "buildah",
-            "stars": 8991
+            "stars": 8992
           }
         },
         {
@@ -615,7 +615,7 @@
             "last_commit": "2026-08-21T20:16:23Z",
             "owner": "google",
             "repo": "go-containerregistry",
-            "stars": 4018
+            "stars": 4021
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2026-08-21T13:17:09Z",
             "owner": "portainer",
             "repo": "portainer",
-            "stars": 38307
+            "stars": 38309
           }
         },
         {
@@ -726,7 +726,7 @@
             "last_commit": "2026-08-21T21:33:01Z",
             "owner": "swarmpit",
             "repo": "swarmpit",
-            "stars": 3484
+            "stars": 3485
           }
         }
       ],
@@ -746,10 +746,10 @@
                 "archived": false,
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-22T01:40:05Z",
+                "last_commit": "2026-08-22T03:52:46Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19134
+                "stars": 19138
               }
             },
             {
@@ -776,7 +776,7 @@
                 "archived": false,
                 "id": 43526066,
                 "language": "Go",
-                "last_commit": "2026-08-19T08:28:33Z",
+                "last_commit": "2026-08-22T22:03:51Z",
                 "owner": "goss-org",
                 "repo": "goss",
                 "stars": 5950
@@ -882,7 +882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:45:02.938Z",
+    "last_updated": "2026-08-23T01:55:26.232Z",
     "original_repository": "Friz-zy/awesome-linux-containers",
     "original_repository_id": 40815285,
     "original_repository_sha": "11e077a0e03327cecd6c1f2385d9e5318eb6b662",

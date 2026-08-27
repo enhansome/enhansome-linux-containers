@@ -30,7 +30,7 @@
             "last_commit": "2026-04-24T18:48:18Z",
             "owner": "opencontainers",
             "repo": "runtime-spec",
-            "stars": 3664
+            "stars": 3663
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36722
+            "stars": 36723
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-27T01:59:50Z",
             "owner": "lxc",
             "repo": "incus",
-            "stars": 6027
+            "stars": 6030
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-08-26T17:44:55Z",
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36309
+            "stars": 36312
           }
         },
         {
@@ -201,10 +201,10 @@
             "archived": false,
             "id": 109145553,
             "language": "Go",
-            "last_commit": "2026-08-26T23:47:31Z",
+            "last_commit": "2026-08-27T10:54:29Z",
             "owner": "podman-container-tools",
             "repo": "podman",
-            "stars": 32704
+            "stars": 32703
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2026-08-24T19:57:15Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13416
+            "stars": 13415
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2017-12-09T14:16:38Z",
             "owner": "p8952",
             "repo": "bocker",
-            "stars": 12670
+            "stars": 12671
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-25T21:36:30Z",
             "owner": "nestybox",
             "repo": "sysbox",
-            "stars": 3840
+            "stars": 3841
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-26T13:38:54Z",
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8498
+            "stars": 8502
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-08-27T02:02:09Z",
             "owner": "moby",
             "repo": "moby",
-            "stars": 72003
+            "stars": 72002
           }
         },
         {
@@ -753,7 +753,7 @@
             "last_commit": "2026-08-27T06:44:08Z",
             "owner": "portainer",
             "repo": "portainer",
-            "stars": 38356
+            "stars": 38355
           }
         },
         {
@@ -788,10 +788,10 @@
                 "archived": false,
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-27T09:11:55Z",
+                "last_commit": "2026-08-27T11:33:39Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19166
+                "stars": 19168
               }
             },
             {
@@ -866,7 +866,7 @@
                 "last_commit": "2026-08-26T07:00:53Z",
                 "owner": "containers",
                 "repo": "oci-seccomp-bpf-hook",
-                "stars": 349
+                "stars": 350
               }
             },
             {
@@ -924,9 +924,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:28:15.959Z",
-    "original_repository": "Friz-zy/awesome-linux-containers",
-    "original_repository_id": 40815285,
+    "last_updated": "2026-08-27T11:47:27.312Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 40815285,
+      "language": null,
+      "last_commit": "2024-04-09T19:01:27Z",
+      "owner": "Friz-zy",
+      "repo": "awesome-linux-containers",
+      "stars": 2091
+    },
     "original_repository_sha": "11e077a0e03327cecd6c1f2385d9e5318eb6b662",
     "enhanced_repository": "enhansome/enhansome-linux-containers",
     "enhanced_repository_description": null,

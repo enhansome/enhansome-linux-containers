@@ -99,7 +99,7 @@
             "archived": false,
             "id": 34008153,
             "language": "C",
-            "last_commit": "2026-08-25T10:25:13Z",
+            "last_commit": "2026-08-26T10:11:29Z",
             "owner": "vmware",
             "repo": "photon",
             "stars": 3178
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36711
+            "stars": 36722
           }
         },
         {
@@ -135,10 +135,10 @@
             "archived": false,
             "id": 669486760,
             "language": "Go",
-            "last_commit": "2026-08-26T00:05:28Z",
+            "last_commit": "2026-08-27T01:59:50Z",
             "owner": "lxc",
             "repo": "incus",
-            "stars": 6018
+            "stars": 6027
           }
         },
         {
@@ -186,10 +186,10 @@
             "archived": false,
             "id": 107505869,
             "language": "Rust",
-            "last_commit": "2026-08-25T16:25:16Z",
+            "last_commit": "2026-08-26T17:44:55Z",
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36266
+            "stars": 36309
           }
         },
         {
@@ -201,10 +201,10 @@
             "archived": false,
             "id": 109145553,
             "language": "Go",
-            "last_commit": "2026-08-25T22:40:38Z",
+            "last_commit": "2026-08-26T23:47:31Z",
             "owner": "podman-container-tools",
             "repo": "podman",
-            "stars": 32691
+            "stars": 32704
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2026-08-24T19:57:15Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13414
+            "stars": 13416
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2017-12-09T14:16:38Z",
             "owner": "p8952",
             "repo": "bocker",
-            "stars": 12667
+            "stars": 12670
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-26T00:44:41Z",
             "owner": "youki-dev",
             "repo": "youki",
-            "stars": 7564
+            "stars": 7566
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2026-08-20T13:56:40Z",
             "owner": "lxc",
             "repo": "lxc",
-            "stars": 5247
+            "stars": 5248
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-25T21:36:30Z",
             "owner": "nestybox",
             "repo": "sysbox",
-            "stars": 3836
+            "stars": 3840
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2025-08-13T17:21:57Z",
             "owner": "indigo-dc",
             "repo": "udocker",
-            "stars": 1782
+            "stars": 1783
           }
         },
         {
@@ -462,10 +462,10 @@
             "archived": false,
             "id": 51868010,
             "language": "C",
-            "last_commit": "2026-06-02T18:05:07Z",
+            "last_commit": "2026-08-26T13:38:54Z",
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8471
+            "stars": 8498
           }
         },
         {
@@ -477,10 +477,10 @@
             "archived": false,
             "id": 35638505,
             "language": "C++",
-            "last_commit": "2026-08-25T19:20:13Z",
+            "last_commit": "2026-08-26T19:39:10Z",
             "owner": "google",
             "repo": "nsjail",
-            "stars": 4072
+            "stars": 4074
           }
         },
         {
@@ -543,10 +543,10 @@
             "archived": false,
             "id": 7691631,
             "language": "Go",
-            "last_commit": "2026-08-25T23:22:00Z",
+            "last_commit": "2026-08-27T02:02:09Z",
             "owner": "moby",
             "repo": "moby",
-            "stars": 72000
+            "stars": 72003
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2025-12-15T17:20:36Z",
             "owner": "wagoodman",
             "repo": "dive",
-            "stars": 54492
+            "stars": 54506
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2025-06-03T14:36:10Z",
             "owner": "GoogleContainerTools",
             "repo": "kaniko",
-            "stars": 15775
+            "stars": 15776
           }
         },
         {
@@ -624,10 +624,10 @@
             "archived": false,
             "id": 53356367,
             "language": "Go",
-            "last_commit": "2026-08-25T19:40:38Z",
+            "last_commit": "2026-08-26T16:42:54Z",
             "owner": "podman-container-tools",
             "repo": "skopeo",
-            "stars": 11193
+            "stars": 11194
           }
         },
         {
@@ -639,10 +639,10 @@
             "archived": false,
             "id": 80134675,
             "language": "Go",
-            "last_commit": "2026-08-25T23:31:24Z",
+            "last_commit": "2026-08-26T23:48:47Z",
             "owner": "podman-container-tools",
             "repo": "buildah",
-            "stars": 8996
+            "stars": 8995
           }
         },
         {
@@ -654,10 +654,10 @@
             "archived": false,
             "id": 125253663,
             "language": "Go",
-            "last_commit": "2026-08-25T18:26:11Z",
+            "last_commit": "2026-08-26T02:37:48Z",
             "owner": "google",
             "repo": "go-containerregistry",
-            "stars": 4025
+            "stars": 4027
           }
         },
         {
@@ -750,10 +750,10 @@
             "archived": false,
             "id": 59239347,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:17:09Z",
+            "last_commit": "2026-08-27T06:44:08Z",
             "owner": "portainer",
             "repo": "portainer",
-            "stars": 38338
+            "stars": 38356
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2026-08-21T21:33:01Z",
             "owner": "swarmpit",
             "repo": "swarmpit",
-            "stars": 3485
+            "stars": 3483
           }
         }
       ],
@@ -788,10 +788,10 @@
                 "archived": false,
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-26T01:38:28Z",
+                "last_commit": "2026-08-27T09:11:55Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19156
+                "stars": 19166
               }
             },
             {
@@ -821,7 +821,7 @@
                 "last_commit": "2026-08-25T19:31:43Z",
                 "owner": "goss-org",
                 "repo": "goss",
-                "stars": 5952
+                "stars": 5953
               }
             },
             {
@@ -863,7 +863,7 @@
                 "archived": false,
                 "id": 209999677,
                 "language": "Go",
-                "last_commit": "2026-08-25T22:11:51Z",
+                "last_commit": "2026-08-26T07:00:53Z",
                 "owner": "containers",
                 "repo": "oci-seccomp-bpf-hook",
                 "stars": 349
@@ -924,7 +924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T01:52:32.513Z",
+    "last_updated": "2026-08-27T09:28:15.959Z",
     "original_repository": "Friz-zy/awesome-linux-containers",
     "original_repository_id": 40815285,
     "original_repository_sha": "11e077a0e03327cecd6c1f2385d9e5318eb6b662",

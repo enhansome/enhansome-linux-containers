@@ -16,7 +16,8 @@
             "owner": "rkt",
             "repo": "rkt",
             "stars": 8766
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-04-24T18:48:18Z",
             "owner": "opencontainers",
             "repo": "runtime-spec",
-            "stars": 3663
-          }
+            "stars": 3665
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "cnabio",
             "repo": "cnab-spec",
             "stars": 972
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "projectatomic",
             "repo": "atomicapp",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         }
       ],
       "title": "Specifications"
@@ -82,7 +86,8 @@
             "owner": "cloudfoundry-attic",
             "repo": "warden",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         }
       ],
       "title": "Clouds"
@@ -103,7 +108,8 @@
             "owner": "vmware",
             "repo": "photon",
             "stars": 3178
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         }
       ],
       "title": "Operating Systems"
@@ -120,11 +126,12 @@
             "archived": false,
             "id": 24297122,
             "language": null,
-            "last_commit": "2026-08-19T15:33:40Z",
+            "last_commit": "2026-08-27T17:04:16Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36723
-          }
+            "stars": 36733
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -135,11 +142,12 @@
             "archived": false,
             "id": 669486760,
             "language": "Go",
-            "last_commit": "2026-08-27T01:59:50Z",
+            "last_commit": "2026-08-27T22:55:14Z",
             "owner": "lxc",
             "repo": "incus",
-            "stars": 6030
-          }
+            "stars": 6037
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -154,7 +162,8 @@
             "owner": "tailhook",
             "repo": "lithos",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "marty90",
             "repo": "multidocker",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         }
       ],
       "title": "Hypervisors"
@@ -186,11 +196,12 @@
             "archived": false,
             "id": 107505869,
             "language": "Rust",
-            "last_commit": "2026-08-26T17:44:55Z",
+            "last_commit": "2026-08-28T10:57:36Z",
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36312
-          }
+            "stars": 36335
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -201,11 +212,12 @@
             "archived": false,
             "id": 109145553,
             "language": "Go",
-            "last_commit": "2026-08-27T10:54:29Z",
+            "last_commit": "2026-08-28T03:02:14Z",
             "owner": "podman-container-tools",
             "repo": "podman",
-            "stars": 32703
-          }
+            "stars": 32716
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -216,11 +228,12 @@
             "archived": false,
             "id": 36960321,
             "language": "Go",
-            "last_commit": "2026-08-24T19:57:15Z",
+            "last_commit": "2026-08-28T08:50:37Z",
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13415
-          }
+            "stars": 13417
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -234,8 +247,9 @@
             "last_commit": "2017-12-09T14:16:38Z",
             "owner": "p8952",
             "repo": "bocker",
-            "stars": 12671
-          }
+            "stars": 12672
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -250,7 +264,8 @@
             "owner": "rkt",
             "repo": "rkt",
             "stars": 8766
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -261,11 +276,12 @@
             "archived": false,
             "id": 352051262,
             "language": "Rust",
-            "last_commit": "2026-08-26T00:44:41Z",
+            "last_commit": "2026-08-28T00:43:11Z",
             "owner": "youki-dev",
             "repo": "youki",
-            "stars": 7566
-          }
+            "stars": 7571
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "lxc",
             "repo": "lxc",
             "stars": 5248
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -294,8 +311,9 @@
             "last_commit": "2026-08-25T21:36:30Z",
             "owner": "nestybox",
             "repo": "sysbox",
-            "stars": 3841
-          }
+            "stars": 3842
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "google",
             "repo": "lmctfy",
             "stars": 3403
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "tailhook",
             "repo": "vagga",
             "stars": 1891
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "indigo-dc",
             "repo": "udocker",
             "stars": 1783
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "weaveworks",
             "repo": "footloose",
             "stars": 1583
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "oracle",
             "repo": "railcar",
             "stars": 1120
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "hyperhq",
             "repo": "runv",
             "stars": 831
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "intel",
             "repo": "cc-oci-runtime",
             "stars": 417
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "yandex",
             "repo": "porto",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "ihucos",
             "repo": "plash",
             "stars": 382
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "xemul",
             "repo": "libct",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         }
       ],
       "title": "Containers"
@@ -462,11 +490,12 @@
             "archived": false,
             "id": 51868010,
             "language": "C",
-            "last_commit": "2026-08-26T13:38:54Z",
+            "last_commit": "2026-08-27T15:51:29Z",
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8502
-          }
+            "stars": 8516
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -477,11 +506,12 @@
             "archived": false,
             "id": 35638505,
             "language": "C++",
-            "last_commit": "2026-08-26T19:39:10Z",
+            "last_commit": "2026-08-27T21:18:02Z",
             "owner": "google",
             "repo": "nsjail",
             "stars": 4074
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "apptainer",
             "repo": "singularity",
             "stars": 2620
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -511,7 +542,8 @@
             "owner": "subuser-security",
             "repo": "subuser",
             "stars": 895
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -526,7 +558,8 @@
             "owner": "parke",
             "repo": "lxroot",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         }
       ],
       "title": "Sandboxes"
@@ -543,11 +576,12 @@
             "archived": false,
             "id": 7691631,
             "language": "Go",
-            "last_commit": "2026-08-27T02:02:09Z",
+            "last_commit": "2026-08-28T09:49:38Z",
             "owner": "moby",
             "repo": "moby",
-            "stars": 72002
-          }
+            "stars": 72008
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -562,7 +596,8 @@
             "owner": "zalando",
             "repo": "python-nsenter",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -577,7 +612,8 @@
             "owner": "Friz-zy",
             "repo": "pyspaces",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         }
       ],
       "title": "Partial Access"
@@ -597,8 +633,9 @@
             "last_commit": "2025-12-15T17:20:36Z",
             "owner": "wagoodman",
             "repo": "dive",
-            "stars": 54506
-          }
+            "stars": 54510
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -613,7 +650,8 @@
             "owner": "GoogleContainerTools",
             "repo": "kaniko",
             "stars": 15776
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -624,11 +662,12 @@
             "archived": false,
             "id": 53356367,
             "language": "Go",
-            "last_commit": "2026-08-26T16:42:54Z",
+            "last_commit": "2026-08-28T02:36:28Z",
             "owner": "podman-container-tools",
             "repo": "skopeo",
-            "stars": 11194
-          }
+            "stars": 11195
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -639,11 +678,12 @@
             "archived": false,
             "id": 80134675,
             "language": "Go",
-            "last_commit": "2026-08-26T23:48:47Z",
+            "last_commit": "2026-08-28T03:07:46Z",
             "owner": "podman-container-tools",
             "repo": "buildah",
-            "stars": 8995
-          }
+            "stars": 8998
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -658,7 +698,8 @@
             "owner": "google",
             "repo": "go-containerregistry",
             "stars": 4027
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -673,7 +714,8 @@
             "owner": "genuinetools",
             "repo": "img",
             "stars": 3989
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -688,7 +730,8 @@
             "owner": "GoogleContainerTools",
             "repo": "container-diff",
             "stars": 3800
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -703,7 +746,8 @@
             "owner": "P3GLEG",
             "repo": "Whaler",
             "stars": 1192
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -718,7 +762,8 @@
             "owner": "blablacar",
             "repo": "dgr",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -733,7 +778,8 @@
             "owner": "christian-korneck",
             "repo": "docker-pushrm",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         }
       ],
       "title": "Filesystem"
@@ -753,8 +799,9 @@
             "last_commit": "2026-08-27T06:44:08Z",
             "owner": "portainer",
             "repo": "portainer",
-            "stars": 38355
-          }
+            "stars": 38364
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         },
         {
           "node_type": "item",
@@ -769,7 +816,8 @@
             "owner": "swarmpit",
             "repo": "swarmpit",
             "stars": 3483
-          }
+          },
+          "first_seen": "2026-08-28T11:13:52.631Z"
         }
       ],
       "title": "Dashboard"
@@ -788,11 +836,12 @@
                 "archived": false,
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:33:39Z",
+                "last_commit": "2026-08-28T07:46:27Z",
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19168
-              }
+                "stars": 19181
+              },
+              "first_seen": "2026-08-28T11:13:52.631Z"
             },
             {
               "node_type": "item",
@@ -806,8 +855,9 @@
                 "last_commit": "2026-06-04T18:11:52Z",
                 "owner": "docker",
                 "repo": "docker-bench-security",
-                "stars": 9693
-              }
+                "stars": 9695
+              },
+              "first_seen": "2026-08-28T11:13:52.631Z"
             },
             {
               "node_type": "item",
@@ -821,8 +871,9 @@
                 "last_commit": "2026-08-25T19:31:43Z",
                 "owner": "goss-org",
                 "repo": "goss",
-                "stars": 5953
-              }
+                "stars": 5954
+              },
+              "first_seen": "2026-08-28T11:13:52.631Z"
             },
             {
               "node_type": "item",
@@ -837,7 +888,8 @@
                 "owner": "genuinetools",
                 "repo": "bane",
                 "stars": 1230
-              }
+              },
+              "first_seen": "2026-08-28T11:13:52.631Z"
             },
             {
               "node_type": "item",
@@ -852,7 +904,8 @@
                 "owner": "google",
                 "repo": "docker-explorer",
                 "stars": 555
-              }
+              },
+              "first_seen": "2026-08-28T11:13:52.631Z"
             },
             {
               "node_type": "item",
@@ -863,11 +916,12 @@
                 "archived": false,
                 "id": 209999677,
                 "language": "Go",
-                "last_commit": "2026-08-26T07:00:53Z",
+                "last_commit": "2026-08-28T10:41:01Z",
                 "owner": "containers",
                 "repo": "oci-seccomp-bpf-hook",
                 "stars": 350
-              }
+              },
+              "first_seen": "2026-08-28T11:13:52.631Z"
             },
             {
               "node_type": "item",
@@ -882,7 +936,8 @@
                 "owner": "OpenSCAP",
                 "repo": "container-compliance",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T11:13:52.631Z"
             },
             {
               "node_type": "item",
@@ -897,7 +952,8 @@
                 "owner": "buildkite",
                 "repo": "sockguard",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T11:13:52.631Z"
             },
             {
               "node_type": "item",
@@ -912,7 +968,8 @@
                 "owner": "zuBux",
                 "repo": "drydock",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T11:13:52.631Z"
             }
           ],
           "description": null,
@@ -924,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:27.312Z",
+    "last_updated": "2026-08-28T11:13:52.631Z",
     "original_repository_info": {
       "archived": false,
       "id": 40815285,
@@ -932,7 +989,7 @@
       "last_commit": "2024-04-09T19:01:27Z",
       "owner": "Friz-zy",
       "repo": "awesome-linux-containers",
-      "stars": 2091
+      "stars": 2093
     },
     "original_repository_sha": "11e077a0e03327cecd6c1f2385d9e5318eb6b662",
     "enhanced_repository": "enhansome/enhansome-linux-containers",

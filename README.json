@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.",
+            "homepage": null,
             "id": 26509369,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-24T14:16:05Z",
+            "open_issues": 494,
             "owner": "rkt",
             "repo": "rkt",
-            "stars": 8766
+            "stars": 8766,
+            "topics": [
+              "containers",
+              "go",
+              "oci",
+              "pods",
+              "rkt"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -26,12 +37,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OCI Runtime Specification",
+            "homepage": "http://www.opencontainers.org",
             "id": 36960293,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-24T18:48:18Z",
+            "open_issues": 94,
             "owner": "opencontainers",
             "repo": "runtime-spec",
-            "stars": 3665
+            "stars": 3667,
+            "topics": [
+              "containers",
+              "docker",
+              "oci",
+              "runc"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -42,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud Native Application Bundle Specification",
+            "homepage": "https://cnab.io",
             "id": 154720714,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-09T11:21:14Z",
+            "open_issues": 31,
             "owner": "cnabio",
             "repo": "cnab-spec",
-            "stars": 972
+            "stars": 972,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -58,12 +84,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[UNMAINTAINED] This is the reference implementation of the Nulecule container application Specification: Atomic App",
+            "homepage": null,
             "id": 32819266,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-03-07T10:08:08Z",
+            "open_issues": 103,
             "owner": "projectatomic",
             "repo": "atomicapp",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         }
@@ -80,12 +111,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cloud Foundry - the open platform as a service project",
+            "homepage": null,
             "id": 4415489,
             "language": "Ruby",
+            "license": "Apache-2.0",
             "last_commit": "2016-12-12T11:34:33Z",
+            "open_issues": 0,
             "owner": "cloudfoundry-attic",
             "repo": "warden",
-            "stars": 284
+            "stars": 284,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         }
@@ -102,12 +138,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal Linux container host",
+            "homepage": "https://vmware.github.io/photon",
             "id": 34008153,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T10:11:29Z",
+            "open_issues": 233,
             "owner": "vmware",
             "repo": "photon",
-            "stars": 3178
+            "stars": 3178,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         }
@@ -124,12 +165,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":whale: A curated list of Docker resources and projects",
+            "homepage": "https://average.joe.dev/awesome-docker/",
             "id": 24297122,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:04:16Z",
+            "open_issues": 25,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36733
+            "stars": 36736,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "container",
+              "docker",
+              "docker-api",
+              "docker-container",
+              "docker-deployment",
+              "docker-environment",
+              "docker-image",
+              "docker-machine",
+              "docker-monitoring",
+              "docker-registry",
+              "docker-security",
+              "docker-swarm",
+              "dockerfile",
+              "list",
+              "moby",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -140,12 +205,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful system container and virtual machine manager ",
+            "homepage": "https://linuxcontainers.org/incus",
             "id": 669486760,
             "language": "Go",
-            "last_commit": "2026-08-27T22:55:14Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:25:53Z",
+            "open_issues": 36,
             "owner": "lxc",
             "repo": "incus",
-            "stars": 6037
+            "stars": 6064,
+            "topics": [
+              "cloud",
+              "containers",
+              "hacktoberfest",
+              "virtual-machines"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -156,12 +231,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Process supervisor that supports linux containers",
+            "homepage": "http://lithos.readthedocs.org",
             "id": 29541696,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2019-03-13T15:39:36Z",
+            "open_issues": 1,
             "owner": "tailhook",
             "repo": "lithos",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "containers",
+              "linux",
+              "process",
+              "rust",
+              "supervisor"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -172,12 +258,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creates a system where users are forced to login in dedicated independent docker containers.",
+            "homepage": null,
             "id": 95304830,
             "language": "Dockerfile",
+            "license": "Apache-2.0",
             "last_commit": "2018-11-27T15:12:56Z",
+            "open_issues": 0,
             "owner": "marty90",
             "repo": "multidocker",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "docker",
+              "docker-image",
+              "multiuser",
+              "virtual-machine"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         }
@@ -194,12 +290,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure and fast microVMs for serverless computing.",
+            "homepage": "http://firecracker-microvm.io",
             "id": 107505869,
             "language": "Rust",
-            "last_commit": "2026-08-28T10:57:36Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T11:50:23Z",
+            "open_issues": 103,
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36335
+            "stars": 36351,
+            "topics": [
+              "containers",
+              "minimalist",
+              "open-source",
+              "oversubscription",
+              "rust",
+              "sandbox",
+              "serverless",
+              "virtual-machine",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -210,12 +321,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Podman: A tool for managing OCI containers and pods.",
+            "homepage": "https://podman.io",
             "id": 109145553,
             "language": "Go",
-            "last_commit": "2026-08-28T03:02:14Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:35:01Z",
+            "open_issues": 1143,
             "owner": "podman-container-tools",
             "repo": "podman",
-            "stars": 32716
+            "stars": 32724,
+            "topics": [
+              "containers",
+              "docker",
+              "kubernetes",
+              "linux",
+              "oci"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -226,12 +348,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool for spawning and running containers according to the OCI specification",
+            "homepage": "https://www.opencontainers.org/",
             "id": 36960321,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:50:37Z",
+            "open_issues": 346,
             "owner": "opencontainers",
             "repo": "runc",
-            "stars": 13417
+            "stars": 13419,
+            "topics": [
+              "containers",
+              "docker",
+              "oci"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -242,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker implemented in around 100 lines of bash",
+            "homepage": "https://www.p8952.info/",
             "id": 39103837,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2017-12-09T14:16:38Z",
+            "open_issues": 15,
             "owner": "p8952",
             "repo": "bocker",
-            "stars": 12672
+            "stars": 12671,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -258,12 +394,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.",
+            "homepage": null,
             "id": 26509369,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-24T14:16:05Z",
+            "open_issues": 494,
             "owner": "rkt",
             "repo": "rkt",
-            "stars": 8766
+            "stars": 8766,
+            "topics": [
+              "containers",
+              "go",
+              "oci",
+              "pods",
+              "rkt"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -274,12 +421,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A container runtime written in Rust",
+            "homepage": "https://youki-dev.github.io/youki/",
             "id": 352051262,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:43:11Z",
+            "open_issues": 152,
             "owner": "youki-dev",
             "repo": "youki",
-            "stars": 7571
+            "stars": 7571,
+            "topics": [
+              "containers",
+              "docker",
+              "kubernetes",
+              "oci",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -290,12 +448,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LXC - Linux Containers",
+            "homepage": "https://linuxcontainers.org/lxc",
             "id": 5720995,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T13:56:40Z",
+            "open_issues": 151,
             "owner": "lxc",
             "repo": "lxc",
-            "stars": 5248
+            "stars": 5248,
+            "topics": [
+              "c",
+              "containers",
+              "hacktoberfest",
+              "lxc"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -306,12 +474,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source, next-generation \"runc\" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.",
+            "homepage": null,
             "id": 284555713,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:36:30Z",
+            "open_issues": 212,
             "owner": "nestybox",
             "repo": "sysbox",
-            "stars": 3842
+            "stars": 3843,
+            "topics": [
+              "container-runtime-security",
+              "container-runtimes",
+              "containers",
+              "devops",
+              "docker",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -322,12 +502,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "lmctfy is the open source version of Google’s container stack, which provides Linux application containers.",
+            "homepage": null,
             "id": 12872299,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2015-06-29T07:36:26Z",
+            "open_issues": 9,
             "owner": "google",
             "repo": "lmctfy",
-            "stars": 3403
+            "stars": 3403,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -338,12 +523,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vagga is a containerization tool without daemons",
+            "homepage": "http://vagga.readthedocs.org",
             "id": 22660519,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-03-31T06:13:55Z",
+            "open_issues": 78,
             "owner": "tailhook",
             "repo": "vagga",
-            "stars": 1891
+            "stars": 1891,
+            "topics": [
+              "containers",
+              "linux",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -354,12 +548,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.",
+            "homepage": "https://indigo-dc.github.io/udocker/",
             "id": 57313402,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-13T17:21:57Z",
+            "open_issues": 40,
             "owner": "indigo-dc",
             "repo": "udocker",
-            "stars": 1783
+            "stars": 1783,
+            "topics": [
+              "batch",
+              "chroot",
+              "containers",
+              "deep-hybrid-datacloud",
+              "docker",
+              "docker-containers",
+              "emulation",
+              "eosc-hub",
+              "fakechroot",
+              "grid",
+              "hpc",
+              "indigo",
+              "proot",
+              "root-privileges",
+              "runc",
+              "user"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -370,12 +586,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Container Machines - Containers that look like Virtual Machines",
+            "homepage": null,
             "id": 168339205,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-29T13:44:17Z",
+            "open_issues": 78,
             "owner": "weaveworks",
             "repo": "footloose",
-            "stars": 1583
+            "stars": 1583,
+            "topics": [
+              "containers",
+              "docker",
+              "virtual-machine",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -386,12 +612,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "RailCar: Rust implementation of the Open Containers Initiative oci-runtime",
+            "homepage": null,
             "id": 95492579,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2019-10-15T03:08:17Z",
+            "open_issues": 18,
             "owner": "oracle",
             "repo": "railcar",
-            "stars": 1120
+            "stars": 1120,
+            "topics": [
+              "containers",
+              "docker"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -402,12 +636,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hypervisor-based Runtime for OCI",
+            "homepage": null,
             "id": 39879019,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-02-08T10:37:27Z",
+            "open_issues": 58,
             "owner": "hyperhq",
             "repo": "runv",
-            "stars": 831
+            "stars": 831,
+            "topics": [
+              "containers",
+              "hypervisor",
+              "oci"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -418,12 +661,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "OCI (Open Containers Initiative) compatible runtime for Intel® Architecture",
+            "homepage": null,
             "id": 62701840,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2017-09-25T15:53:49Z",
+            "open_issues": 78,
             "owner": "intel",
             "repo": "cc-oci-runtime",
-            "stars": 417
+            "stars": 417,
+            "topics": [
+              "container",
+              "containers",
+              "docker",
+              "kvm",
+              "oci",
+              "security",
+              "virtual-machine",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -434,12 +691,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Yet another Linux container management system",
+            "homepage": null,
             "id": 41472626,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-20T09:43:15Z",
+            "open_issues": 2,
             "owner": "yandex",
             "repo": "porto",
-            "stars": 404
+            "stars": 404,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -450,12 +712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build and run layered root filesystems.",
+            "homepage": null,
             "id": 90044689,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-03-20T15:47:21Z",
+            "open_issues": 9,
             "owner": "ihucos",
             "repo": "plash",
-            "stars": 382
+            "stars": 382,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -466,12 +733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux containers control plane",
+            "homepage": null,
             "id": 18364357,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2017-10-06T11:44:13Z",
+            "open_issues": 8,
             "owner": "xemul",
             "repo": "libct",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         }
@@ -488,12 +760,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low-level unprivileged sandboxing tool used by Flatpak and similar projects",
+            "homepage": null,
             "id": 51868010,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:51:29Z",
+            "open_issues": 193,
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8516
+            "stars": 8524,
+            "topics": [
+              "linux-containers",
+              "user-namespaces"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -504,12 +784,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.",
+            "homepage": "https://nsjail.dev",
             "id": 35638505,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:18:02Z",
+            "open_issues": 9,
             "owner": "google",
             "repo": "nsjail",
-            "stars": 4074
+            "stars": 4074,
+            "topics": [
+              "chroot",
+              "linux",
+              "linux-namespaces",
+              "process-isolation",
+              "seccomp-bpf-policies",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -520,12 +812,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Singularity has been renamed to Apptainer as part of us moving the project to the Linux Foundation. This repo has been persisted as a snapshot right before the changes.",
+            "homepage": "https://github.com/apptainer/apptainer",
             "id": 43982667,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-10T17:53:01Z",
+            "open_issues": 0,
             "owner": "apptainer",
             "repo": "singularity",
-            "stars": 2620
+            "stars": 2620,
+            "topics": [
+              "cloud-native",
+              "container",
+              "containers",
+              "hpc",
+              "linux",
+              "parallel",
+              "portability",
+              "portable",
+              "reproducible",
+              "reproducible-science",
+              "rootless-containers",
+              "science",
+              "singularity",
+              "singularity-container"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -536,12 +848,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run programs on linux with selectively restricted permissions.",
+            "homepage": "http://subuser.org",
             "id": 16678519,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2025-02-23T11:31:31Z",
+            "open_issues": 43,
             "owner": "subuser-security",
             "repo": "subuser",
-            "stars": 895
+            "stars": 895,
+            "topics": [
+              "containers",
+              "docker",
+              "python",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -552,12 +874,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, flexible, and safer alternative to chroot and/or Docker.",
+            "homepage": null,
             "id": 237704413,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-25T22:46:32Z",
+            "open_issues": 2,
             "owner": "parke",
             "repo": "lxroot",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "chroot",
+              "chroot-environment",
+              "cli",
+              "lightweight",
+              "linux",
+              "namespace",
+              "userland",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         }
@@ -574,12 +910,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+            "homepage": "https://mobyproject.org/",
             "id": 7691631,
             "language": "Go",
-            "last_commit": "2026-08-28T09:49:38Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:48:22Z",
+            "open_issues": 3892,
             "owner": "moby",
             "repo": "moby",
-            "stars": 72008
+            "stars": 72011,
+            "topics": [
+              "containers",
+              "docker",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -590,12 +936,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Enter kernel namespaces from Python",
+            "homepage": "https://pypi.python.org/pypi/nsenter",
             "id": 24053999,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-03-27T16:18:56Z",
+            "open_issues": 5,
             "owner": "zalando",
             "repo": "python-nsenter",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "docker",
+              "linux-kernel",
+              "namespaces",
+              "nsenter",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -606,12 +963,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Works with Linux namespaces througth glibc with pure python",
+            "homepage": null,
             "id": 33810029,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-03-05T17:21:40Z",
+            "open_issues": 2,
             "owner": "Friz-zy",
             "repo": "pyspaces",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "containers",
+              "glibc",
+              "linux-namespaces",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         }
@@ -628,12 +995,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for exploring each layer in a docker image",
+            "homepage": null,
             "id": 133251103,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-15T17:20:36Z",
+            "open_issues": 212,
             "owner": "wagoodman",
             "repo": "dive",
-            "stars": 54510
+            "stars": 54516,
+            "topics": [
+              "cli",
+              "docker",
+              "docker-image",
+              "explorer",
+              "inspector",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -644,12 +1023,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build Container Images In Kubernetes",
+            "homepage": null,
             "id": 119419195,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-03T14:36:10Z",
+            "open_issues": 760,
             "owner": "GoogleContainerTools",
             "repo": "kaniko",
-            "stars": 15776
+            "stars": 15776,
+            "topics": [
+              "containers",
+              "developer-tools",
+              "docker",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -660,12 +1049,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Work with remote images registries - retrieving information, images, signing content",
+            "homepage": null,
             "id": 53356367,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T02:36:28Z",
+            "open_issues": 90,
             "owner": "podman-container-tools",
             "repo": "skopeo",
-            "stars": 11195
+            "stars": 11196,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -676,12 +1070,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool that facilitates building OCI images.",
+            "homepage": "https://buildah.io",
             "id": 80134675,
             "language": "Go",
-            "last_commit": "2026-08-28T03:07:46Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T11:56:33Z",
+            "open_issues": 287,
             "owner": "podman-container-tools",
             "repo": "buildah",
-            "stars": 8998
+            "stars": 8999,
+            "topics": [
+              "container",
+              "container-image",
+              "containers",
+              "docker",
+              "oci",
+              "oci-image",
+              "podman"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -692,12 +1099,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go library and CLIs for working with container registries",
+            "homepage": null,
             "id": 125253663,
             "language": "Go",
-            "last_commit": "2026-08-26T02:37:48Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:26:01Z",
+            "open_issues": 171,
             "owner": "google",
             "repo": "go-containerregistry",
-            "stars": 4027
+            "stars": 4027,
+            "topics": [
+              "container",
+              "container-registry",
+              "docker",
+              "registry"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -708,12 +1125,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.",
+            "homepage": "https://blog.jessfraz.com/post/building-container-images-securely-on-kubernetes/",
             "id": 113604197,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-05-19T22:07:07Z",
+            "open_issues": 110,
             "owner": "genuinetools",
             "repo": "img",
-            "stars": 3989
+            "stars": 3989,
+            "topics": [
+              "buildkit",
+              "cli",
+              "containers",
+              "docker",
+              "linux",
+              "opencontainers",
+              "rootless",
+              "runc"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -724,12 +1155,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "container-diff: Diff your Docker containers",
+            "homepage": null,
             "id": 99612558,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-27T18:02:22Z",
+            "open_issues": 0,
             "owner": "GoogleContainerTools",
             "repo": "container-diff",
-            "stars": 3800
+            "stars": 3800,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -740,12 +1176,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Program to reverse Docker images into Dockerfiles",
+            "homepage": null,
             "id": 136115520,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-08T19:28:12Z",
+            "open_issues": 8,
             "owner": "P3GLEG",
             "repo": "Whaler",
-            "stars": 1192
+            "stars": 1192,
+            "topics": [
+              "docker-image",
+              "docker-security",
+              "dockerfile",
+              "passwords",
+              "reverse-engineering",
+              "secrets",
+              "security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -756,12 +1206,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Container build and runtime tool",
+            "homepage": null,
             "id": 38881222,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-12T15:13:59Z",
+            "open_issues": 40,
             "owner": "blablacar",
             "repo": "dgr",
-            "stars": 247
+            "stars": 247,
+            "topics": [
+              "aci",
+              "appc",
+              "builder",
+              "containers",
+              "ep",
+              "owner-ep",
+              "pod",
+              "rkt"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -772,12 +1236,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Docker Push Readme\" - a Docker CLI plugin to update container repo docs",
+            "homepage": null,
             "id": 267186658,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-06-10T21:42:09Z",
+            "open_issues": 6,
             "owner": "christian-korneck",
             "repo": "docker-pushrm",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "container-registry",
+              "containers",
+              "docker",
+              "docker-cli-plugin",
+              "dockerhub",
+              "harbor",
+              "podman",
+              "quay"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         }
@@ -794,12 +1272,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Making Docker and Kubernetes management easy.",
+            "homepage": "https://www.portainer.io",
             "id": 59239347,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:44:08Z",
+            "license": "Zlib",
+            "last_commit": "2026-08-28T17:00:23Z",
+            "open_issues": 745,
             "owner": "portainer",
             "repo": "portainer",
-            "stars": 38364
+            "stars": 38367,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "docker-container",
+              "docker-deployment",
+              "docker-image",
+              "docker-swarm",
+              "docker-ui",
+              "dockerfile",
+              "hacktoberfest",
+              "kubernetes",
+              "moby",
+              "portainer",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         },
@@ -810,12 +1307,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight AI-friendly Docker Swarm management",
+            "homepage": "https://swarmpit.io",
             "id": 81071976,
             "language": "Clojure",
+            "license": "EPL-1.0",
             "last_commit": "2026-08-21T21:33:01Z",
+            "open_issues": 172,
             "owner": "swarmpit",
             "repo": "swarmpit",
-            "stars": 3483
+            "stars": 3484,
+            "topics": [
+              "ai",
+              "docker",
+              "docker-compose",
+              "docker-containers",
+              "docker-devops",
+              "docker-stack",
+              "docker-swarm",
+              "docker-swarm-ui",
+              "management",
+              "mcp",
+              "mobile-friendly",
+              "pwa",
+              "stack",
+              "swarm",
+              "swarm-mode",
+              "swarmpit",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
         }
@@ -834,12 +1354,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Application Kernel for Containers",
+                "homepage": "https://gvisor.dev",
                 "id": 131212638,
                 "language": "Go",
-                "last_commit": "2026-08-28T07:46:27Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:08:36Z",
+                "open_issues": 838,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19181
+                "stars": 19185,
+                "topics": [
+                  "containers",
+                  "docker",
+                  "kernel",
+                  "kubernetes",
+                  "linux",
+                  "oci",
+                  "sandbox"
+                ]
               },
               "first_seen": "2026-08-28T11:13:52.631Z"
             },
@@ -850,12 +1383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.",
+                "homepage": null,
                 "id": 35394510,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-04T18:11:52Z",
+                "open_issues": 29,
                 "owner": "docker",
                 "repo": "docker-bench-security",
-                "stars": 9695
+                "stars": 9695,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:13:52.631Z"
             },
@@ -866,12 +1404,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quick and Easy server testing/validation",
+                "homepage": "https://goss.rocks",
                 "id": 43526066,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T19:31:43Z",
+                "open_issues": 66,
                 "owner": "goss-org",
                 "repo": "goss",
-                "stars": 5954
+                "stars": 5955,
+                "topics": [
+                  "devops",
+                  "devops-tools",
+                  "docker",
+                  "go",
+                  "golang",
+                  "goss",
+                  "health-check",
+                  "health-endpoint",
+                  "infrastructure-as-code",
+                  "linux",
+                  "nagios",
+                  "sensu",
+                  "tap",
+                  "tdd",
+                  "tdd-utilities",
+                  "testing",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T11:13:52.631Z"
             },
@@ -882,12 +1443,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom & better AppArmor profile generator for Docker containers.",
+                "homepage": null,
                 "id": 43922256,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2020-09-17T20:10:45Z",
+                "open_issues": 4,
                 "owner": "genuinetools",
                 "repo": "bane",
-                "stars": 1230
+                "stars": 1229,
+                "topics": [
+                  "apparmor",
+                  "apparmor-profile",
+                  "cli",
+                  "containers",
+                  "docker",
+                  "linux",
+                  "opencontainers",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T11:13:52.631Z"
             },
@@ -898,12 +1473,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A tool to help forensicate offline docker acquisitions",
+                "homepage": null,
                 "id": 133632679,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-04T07:44:31Z",
+                "open_issues": 11,
                 "owner": "google",
                 "repo": "docker-explorer",
-                "stars": 555
+                "stars": 555,
+                "topics": [
+                  "docker",
+                  "forensics"
+                ]
               },
               "first_seen": "2026-08-28T11:13:52.631Z"
             },
@@ -914,12 +1497,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCI hook to trace syscalls and generate a seccomp profile",
+                "homepage": null,
                 "id": 209999677,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:41:01Z",
+                "open_issues": 4,
                 "owner": "containers",
                 "repo": "oci-seccomp-bpf-hook",
-                "stars": 350
+                "stars": 350,
+                "topics": [
+                  "bcc",
+                  "containers",
+                  "oci",
+                  "seccomp-profile",
+                  "syscalls"
+                ]
               },
               "first_seen": "2026-08-28T11:13:52.631Z"
             },
@@ -930,12 +1524,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Assessing compliance of a container",
+                "homepage": null,
                 "id": 31615206,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2016-12-02T19:05:00Z",
+                "open_issues": 0,
                 "owner": "OpenSCAP",
                 "repo": "container-compliance",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:13:52.631Z"
             },
@@ -946,12 +1545,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A proxy for docker.sock that enforces access control and isolated privileges ",
+                "homepage": null,
                 "id": 112824786,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-08-24T01:25:51Z",
+                "open_issues": 10,
                 "owner": "buildkite",
                 "repo": "sockguard",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:13:52.631Z"
             },
@@ -962,12 +1566,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates",
+                "homepage": null,
                 "id": 44819795,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2016-05-13T18:35:52Z",
+                "open_issues": 2,
                 "owner": "zuBux",
                 "repo": "drydock",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "audit",
+                  "docker",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T11:13:52.631Z"
             }
@@ -981,15 +1594,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:13:52.631Z",
+    "last_updated": "2026-08-29T04:26:21.479Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Linux Containers frameworks, libraries and software",
+      "homepage": null,
       "id": 40815285,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2024-04-09T19:01:27Z",
+      "open_issues": 11,
       "owner": "Friz-zy",
       "repo": "awesome-linux-containers",
-      "stars": 2093
+      "stars": 2093,
+      "topics": [
+        "awesome",
+        "best-practices",
+        "containers",
+        "linux-containers"
+      ]
     },
     "original_repository_sha": "11e077a0e03327cecd6c1f2385d9e5318eb6b662",
     "enhanced_repository": "enhansome/enhansome-linux-containers",

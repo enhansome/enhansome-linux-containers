@@ -46,7 +46,7 @@
             "open_issues": 94,
             "owner": "opencontainers",
             "repo": "runtime-spec",
-            "stars": 3669,
+            "stars": 3670,
             "topics": [
               "containers",
               "docker",
@@ -171,10 +171,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:04:16Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36781,
+            "stars": 36786,
             "topics": [
               "awesome",
               "awesome-list",
@@ -210,11 +210,11 @@
             "id": 669486760,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T21:12:33Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-06T03:58:52Z",
+            "open_issues": 38,
             "owner": "lxc",
             "repo": "incus",
-            "stars": 6133,
+            "stars": 6139,
             "topics": [
               "cloud",
               "containers",
@@ -299,7 +299,7 @@
             "open_issues": 103,
             "owner": "firecracker-microvm",
             "repo": "firecracker",
-            "stars": 36543,
+            "stars": 36559,
             "topics": [
               "containers",
               "minimalist",
@@ -326,11 +326,11 @@
             "id": 109145553,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T17:26:56Z",
+            "last_commit": "2026-09-05T04:46:35Z",
             "open_issues": 1125,
             "owner": "podman-container-tools",
             "repo": "podman",
-            "stars": 32770,
+            "stars": 32787,
             "topics": [
               "containers",
               "docker",
@@ -382,7 +382,7 @@
             "open_issues": 15,
             "owner": "p8952",
             "repo": "bocker",
-            "stars": 12672,
+            "stars": 12674,
             "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
@@ -426,11 +426,11 @@
             "id": 352051262,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T22:38:48Z",
-            "open_issues": 146,
+            "last_commit": "2026-09-05T09:01:07Z",
+            "open_issues": 147,
             "owner": "youki-dev",
             "repo": "youki",
-            "stars": 7577,
+            "stars": 7583,
             "topics": [
               "containers",
               "docker",
@@ -457,7 +457,7 @@
             "open_issues": 148,
             "owner": "lxc",
             "repo": "lxc",
-            "stars": 5255,
+            "stars": 5256,
             "topics": [
               "c",
               "containers",
@@ -483,7 +483,7 @@
             "open_issues": 212,
             "owner": "nestybox",
             "repo": "sysbox",
-            "stars": 3852,
+            "stars": 3853,
             "topics": [
               "container-runtime-security",
               "container-runtimes",
@@ -595,7 +595,7 @@
             "open_issues": 78,
             "owner": "weaveworks",
             "repo": "footloose",
-            "stars": 1583,
+            "stars": 1582,
             "topics": [
               "containers",
               "docker",
@@ -766,10 +766,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T11:43:38Z",
-            "open_issues": 193,
+            "open_issues": 194,
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8604,
+            "stars": 8606,
             "topics": [
               "linux-containers",
               "user-namespaces"
@@ -916,10 +916,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T17:30:56Z",
-            "open_issues": 3879,
+            "open_issues": 3881,
             "owner": "moby",
             "repo": "moby",
-            "stars": 72038,
+            "stars": 72046,
             "topics": [
               "containers",
               "docker",
@@ -1001,10 +1001,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2025-12-15T17:20:36Z",
-            "open_issues": 212,
+            "open_issues": 213,
             "owner": "wagoodman",
             "repo": "dive",
-            "stars": 54528,
+            "stars": 54530,
             "topics": [
               "cli",
               "docker",
@@ -1058,7 +1058,7 @@
             "open_issues": 90,
             "owner": "podman-container-tools",
             "repo": "skopeo",
-            "stars": 11208,
+            "stars": 11211,
             "topics": []
           },
           "first_seen": "2026-08-28T11:13:52.631Z"
@@ -1079,7 +1079,7 @@
             "open_issues": 288,
             "owner": "podman-container-tools",
             "repo": "buildah",
-            "stars": 9005,
+            "stars": 9009,
             "topics": [
               "container",
               "container-image",
@@ -1134,7 +1134,7 @@
             "open_issues": 110,
             "owner": "genuinetools",
             "repo": "img",
-            "stars": 3988,
+            "stars": 3987,
             "topics": [
               "buildkit",
               "cli",
@@ -1185,7 +1185,7 @@
             "open_issues": 8,
             "owner": "P3GLEG",
             "repo": "Whaler",
-            "stars": 1191,
+            "stars": 1190,
             "topics": [
               "docker-image",
               "docker-security",
@@ -1278,10 +1278,10 @@
             "language": "TypeScript",
             "license": "Zlib",
             "last_commit": "2026-09-02T13:01:29Z",
-            "open_issues": 746,
+            "open_issues": 747,
             "owner": "portainer",
             "repo": "portainer",
-            "stars": 38435,
+            "stars": 38441,
             "topics": [
               "docker",
               "docker-compose",
@@ -1359,11 +1359,11 @@
                 "id": 131212638,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T03:51:47Z",
-                "open_issues": 873,
+                "last_commit": "2026-09-05T14:26:59Z",
+                "open_issues": 872,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19231,
+                "stars": 19237,
                 "topics": [
                   "containers",
                   "docker",
@@ -1392,7 +1392,7 @@
                 "open_issues": 29,
                 "owner": "docker",
                 "repo": "docker-bench-security",
-                "stars": 9697,
+                "stars": 9698,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:13:52.631Z"
@@ -1409,8 +1409,8 @@
                 "id": 43526066,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T20:45:23Z",
-                "open_issues": 59,
+                "last_commit": "2026-09-05T22:02:26Z",
+                "open_issues": 60,
                 "owner": "goss-org",
                 "repo": "goss",
                 "stars": 5964,
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:15:46.299Z",
+    "last_updated": "2026-09-06T04:25:20.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Linux Containers frameworks, libraries and software",

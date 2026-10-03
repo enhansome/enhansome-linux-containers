@@ -427,7 +427,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T20:32:13Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "youki-dev",
             "repo": "youki",
             "stars": 7614,
@@ -919,7 +919,7 @@
             "open_issues": 3920,
             "owner": "moby",
             "repo": "moby",
-            "stars": 72143,
+            "stars": 72142,
             "topics": [
               "containers",
               "docker",
@@ -1363,7 +1363,7 @@
                 "open_issues": 866,
                 "owner": "google",
                 "repo": "gvisor",
-                "stars": 19482,
+                "stars": 19483,
                 "topics": [
                   "containers",
                   "docker",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:54:21.777Z",
+    "last_updated": "2026-10-03T05:17:18.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Linux Containers frameworks, libraries and software",

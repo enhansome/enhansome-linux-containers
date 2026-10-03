@@ -2,7 +2,7 @@
 
 [![#StandWithBelarus](https://img.shields.io/badge/Belarus-red?label=%23%20Stand%20With\&labelColor=white\&color=red) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Presidential_Standard_of_Belarus_%28fictional%29.svg/240px-Presidential_Standard_of_Belarus_%28fictional%29.svg.png" width="20" height="20" alt="Voices From Belarus" />](https://bysol.org/en/) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02
 
 ## Table of Contents
 
@@ -144,7 +144,7 @@ If you are seeking a skilled DevOps lead or architect to enhance your project, I
   Docker implemented in around 100 lines of bash.
 * [Rocket](https://github.com/coreos/rkt) ⚠️ Archived\
   rkt (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.
-* [youki](https://github.com/containers/youki) ⭐ 7,614 | 🐛 162 | 🌐 Rust | 📅 2026-10-02\
+* [youki](https://github.com/containers/youki) ⭐ 7,614 | 🐛 163 | 🌐 Rust | 📅 2026-10-02\
   A container runtime written in Rust.
 * [LXC](https://github.com/lxc/lxc) ⭐ 5,266 | 🐛 158 | 🌐 C | 📅 2026-10-02\
   LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.
@@ -198,7 +198,7 @@ If you are seeking a skilled DevOps lead or architect to enhance your project, I
 
 ## Partial Access
 
-* [Moby](https://github.com/moby/moby) ⭐ 72,143 | 🐛 3,920 | 🌐 Go | 📅 2026-10-01\
+* [Moby](https://github.com/moby/moby) ⭐ 72,142 | 🐛 3,920 | 🌐 Go | 📅 2026-10-01\
   A "Lego set" of toolkit components for containers software created by Docker.
 * [python-nsenter](https://github.com/zalando/python-nsenter) ⚠️ Archived\
   This Python package allows entering Linux kernel namespaces (mount, IPC, net, PID, user and UTS) by doing the "setns" syscall.
@@ -262,7 +262,7 @@ If you are seeking a skilled DevOps lead or architect to enhance your project, I
 
 ### Tools
 
-* [gvisor](https://github.com/google/gvisor) ⭐ 19,482 | 🐛 866 | 🌐 Go | 📅 2026-10-03\
+* [gvisor](https://github.com/google/gvisor) ⭐ 19,483 | 🐛 866 | 🌐 Go | 📅 2026-10-03\
   gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
 * [Docker bench security](https://github.com/docker/docker-bench-security) ⭐ 9,701 | 🐛 28 | 🌐 Shell | 📅 2026-06-04\
   The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.

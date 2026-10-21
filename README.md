@@ -2,7 +2,7 @@
 
 [![#StandWithBelarus](https://img.shields.io/badge/Belarus-red?label=%23%20Stand%20With\&labelColor=white\&color=red) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Presidential_Standard_of_Belarus_%28fictional%29.svg/240px-Presidential_Standard_of_Belarus_%28fictional%29.svg.png" width="20" height="20" alt="Voices From Belarus" />](https://bysol.org/en/) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,535 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,008 | 🐛 105 | 📅 2026-09-02
 
 ## Table of Contents
 
@@ -48,7 +48,7 @@ If you are seeking a skilled DevOps lead or architect to enhance your project, I
 
 * [App Container basics](https://github.com/coreos/rkt/blob/master/Documentation/app-container.md) ⚠️ Archived\
   App Container (appc) is an open specification that defines several aspects of how to run applications in containers: an image format, runtime environment, and discovery protocol.
-* [Open Container Specifications](https://github.com/opencontainers/specs) ⭐ 3,693 | 🐛 96 | 🌐 Go | 📅 2026-10-16\
+* [Open Container Specifications](https://github.com/opencontainers/specs) ⭐ 3,694 | 🐛 96 | 🌐 Go | 📅 2026-10-16\
   This project is where the Open Container Initiative Specifications are written. This is a work in progress.
 * [Cloud Native Application Bundle Specification](https://github.com/deislabs/cnab-spec) ⭐ 972 | 🐛 31 | 🌐 Shell | 📅 2022-09-09\
   A package format specification that describes a technology for bundling, installing, and managing distributed applications, that are by design, cloud agnostic.
@@ -119,9 +119,9 @@ If you are seeking a skilled DevOps lead or architect to enhance your project, I
 
 ## Hypervisors
 
-* [Docker](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure) ⭐ 37,072 | 🐛 59 | 📅 2026-10-14\
+* [Docker](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure) ⭐ 37,076 | 🐛 60 | 📅 2026-10-14\
   An open platform for distributed applications for developers and sysadmins. **Standard de facto**.
-* [LXD](https://github.com/lxc/lxd) ⭐ 6,443 | 🐛 38 | 🌐 Go | 📅 2026-10-20\
+* [LXD](https://github.com/lxc/lxd) ⭐ 6,448 | 🐛 41 | 🌐 Go | 📅 2026-10-20\
   Daemon based on liblxc offering a REST API to manage LXC containers.
 * [Lithos](https://github.com/tailhook/lithos/) ⭐ 118 | 🐛 1 | 🌐 Rust | 📅 2019-03-13\
   Lithos is a process supervisor and containerizer for running services. It is not intended to be system init, but rather tries to be a base tool to build container orchestration.
@@ -134,27 +134,27 @@ If you are seeking a skilled DevOps lead or architect to enhance your project, I
 
 ## Containers
 
-* [firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 37,492 | 🐛 121 | 🌐 Rust | 📅 2026-10-19\
+* [firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 37,517 | 🐛 126 | 🌐 Rust | 📅 2026-10-20\
   Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers.
-* [podman](https://github.com/containers/libpod) ⭐ 33,081 | 🐛 996 | 🌐 Go | 📅 2026-10-19\
+* [podman](https://github.com/containers/libpod) ⭐ 33,086 | 🐛 992 | 🌐 Go | 📅 2026-10-21\
   Full management of container lifecycle.
-* [runc](https://github.com/opencontainers/runc) ⭐ 13,495 | 🐛 211 | 🌐 Go | 📅 2026-10-20\
+* [runc](https://github.com/opencontainers/runc) ⭐ 13,498 | 🐛 204 | 🌐 Go | 📅 2026-10-21\
   runc is a CLI tool for spawning and running containers according to the OCS specification.
 * [Bocker](https://github.com/p8952/bocker) ⭐ 12,687 | 🐛 15 | 🌐 Shell | 📅 2017-12-09\
   Docker implemented in around 100 lines of bash.
 * [Rocket](https://github.com/coreos/rkt) ⚠️ Archived\
   rkt (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.
-* [youki](https://github.com/containers/youki) ⭐ 7,641 | 🐛 182 | 🌐 Rust | 📅 2026-10-20\
+* [youki](https://github.com/containers/youki) ⭐ 7,642 | 🐛 181 | 🌐 Rust | 📅 2026-10-21\
   A container runtime written in Rust.
-* [LXC](https://github.com/lxc/lxc) ⭐ 5,277 | 🐛 160 | 🌐 C | 📅 2026-10-02\
+* [LXC](https://github.com/lxc/lxc) ⭐ 5,277 | 🐛 163 | 🌐 C | 📅 2026-10-02\
   LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.
-* [sysbox](https://github.com/nestybox/sysbox) ⭐ 3,919 | 🐛 216 | 🌐 Shell | 📅 2026-10-19\
+* [sysbox](https://github.com/nestybox/sysbox) ⭐ 3,920 | 🐛 216 | 🌐 Shell | 📅 2026-10-21\
   Sysbox is a "runc" that creates secure (rootless) containers / pods that run not just microservices, but most workloads that run in VMs (e.g., systemd, Docker, and Kubernetes), seamlessly.
 * [Let Me Contain That For You](https://github.com/google/lmctfy) ⚠️ Archived\
   LMCTFY is the open source version of Google’s container stack, which provides Linux application containers.
 * [Vagga](https://github.com/tailhook/vagga) ⭐ 1,892 | 🐛 78 | 🌐 Rust | 📅 2023-03-31\
   Vagga is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.
-* [udocker](https://github.com/indigo-dc/udocker) ⭐ 1,795 | 🐛 41 | 🌐 Python | 📅 2025-08-13\
+* [udocker](https://github.com/indigo-dc/udocker) ⭐ 1,796 | 🐛 42 | 🌐 Python | 📅 2025-08-13\
   A basic user tool to execute simple containers in batch or interactive systems without root privileges.
 * [footloose](https://github.com/weaveworks/footloose) ⚠️ Archived\
   Containers that look like Virtual Machines.
@@ -179,15 +179,15 @@ If you are seeking a skilled DevOps lead or architect to enhance your project, I
 
 ## Sandboxes
 
-* [Bubblewrap](https://github.com/projectatomic/bubblewrap) ⭐ 9,129 | 🐛 207 | 🌐 C | 📅 2026-10-14\
+* [Bubblewrap](https://github.com/projectatomic/bubblewrap) ⭐ 9,147 | 🐛 207 | 🌐 C | 📅 2026-10-14\
   Run applications in a sandbox using Linux namespaces without root privileges, with user namespacing provided via setuid binary.
-* [NsJail](https://github.com/google/nsjail) ⭐ 4,163 | 🐛 53 | 🌐 C++ | 📅 2026-10-02\
+* [NsJail](https://github.com/google/nsjail) ⭐ 4,164 | 🐛 53 | 🌐 C++ | 📅 2026-10-02\
   NsJail is a process isolation tool for Linux. It makes use of the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.
 * [singularity](https://github.com/singularityware/singularity) ⭐ 2,626 | 🐛 0 | 🌐 Go | 📅 2022-10-10\
   Universal application containers for Linux.
 * [Subuser](https://github.com/subuser-security/subuser) ⭐ 895 | 🐛 43 | 🌐 Python | 📅 2025-02-23\
   Securing the Linux desktop with Docker.
-* [Lxroot](https://github.com/parke/lxroot) ⭐ 121 | 🐛 2 | 🌐 C++ | 📅 2025-04-25\
+* [Lxroot](https://github.com/parke/lxroot) ⭐ 120 | 🐛 2 | 🌐 C++ | 📅 2025-04-25\
   Lxroot is a flexible, lightweight, and safer alternative to chroot and/or Docker for non-root users on Linux.
 * [Firejail](https://l3net.wordpress.com/projects/firejail/)\
   Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
@@ -198,7 +198,7 @@ If you are seeking a skilled DevOps lead or architect to enhance your project, I
 
 ## Partial Access
 
-* [Moby](https://github.com/moby/moby) ⭐ 72,207 | 🐛 3,935 | 🌐 Go | 📅 2026-10-19\
+* [Moby](https://github.com/moby/moby) ⭐ 72,197 | 🐛 3,939 | 🌐 Go | 📅 2026-10-20\
   A "Lego set" of toolkit components for containers software created by Docker.
 * [python-nsenter](https://github.com/zalando/python-nsenter) ⚠️ Archived\
   This Python package allows entering Linux kernel namespaces (mount, IPC, net, PID, user and UTS) by doing the "setns" syscall.
@@ -217,15 +217,15 @@ If you are seeking a skilled DevOps lead or architect to enhance your project, I
 
 ## Filesystem
 
-* [dive](https://github.com/wagoodman/dive) ⭐ 54,652 | 🐛 219 | 🌐 Go | 📅 2025-12-15\
+* [dive](https://github.com/wagoodman/dive) ⭐ 54,659 | 🐛 219 | 🌐 Go | 📅 2025-12-15\
   A tool for exploring each layer in a docker image.
 * [kaniko](https://github.com/GoogleContainerTools/kaniko) ⚠️ Archived\
   Kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
-* [skopeo](https://github.com/projectatomic/skopeo) ⭐ 11,326 | 🐛 68 | 🌐 Go | 📅 2026-10-16\
+* [skopeo](https://github.com/projectatomic/skopeo) ⭐ 11,327 | 🐛 69 | 🌐 Go | 📅 2026-10-16\
   Work with remote images registries - retrieving information, images, signing content.
-* [buildah](https://github.com/projectatomic/buildah) ⭐ 9,135 | 🐛 277 | 🌐 Go | 📅 2026-10-19\
+* [buildah](https://github.com/projectatomic/buildah) ⭐ 9,137 | 🐛 274 | 🌐 Go | 📅 2026-10-21\
   A tool which facilitates building OCI container images.
-* [go-containerregistry](https://github.com/google/go-containerregistry) ⭐ 4,089 | 🐛 148 | 🌐 Go | 📅 2026-10-14\
+* [go-containerregistry](https://github.com/google/go-containerregistry) ⭐ 4,089 | 🐛 148 | 🌐 Go | 📅 2026-10-21\
   Go library and CLIs for working with container registries.
 * [img](https://github.com/jessfraz/img) ⭐ 3,992 | 🐛 110 | 🌐 Go | 📅 2024-05-19\
   Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
@@ -242,7 +242,7 @@ If you are seeking a skilled DevOps lead or architect to enhance your project, I
 
 ## Dashboard
 
-* [portainer](https://github.com/portainer/portainer) ⭐ 38,689 | 🐛 765 | 🌐 TypeScript | 📅 2026-10-16\
+* [portainer](https://github.com/portainer/portainer) ⭐ 38,693 | 🐛 765 | 🌐 TypeScript | 📅 2026-10-20\
   Lightweight Docker management UI.
 * [swarmpit](https://github.com/swarmpit/swarmpit) ⭐ 3,500 | 🐛 172 | 🌐 Clojure | 📅 2026-10-13\
   Lightweight mobile-friendly Docker Swarm management UI.
@@ -262,7 +262,7 @@ If you are seeking a skilled DevOps lead or architect to enhance your project, I
 
 ### Tools
 
-* [gvisor](https://github.com/google/gvisor) ⭐ 19,722 | 🐛 985 | 🌐 Go | 📅 2026-10-20\
+* [gvisor](https://github.com/google/gvisor) ⭐ 19,730 | 🐛 986 | 🌐 Go | 📅 2026-10-21\
   gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
 * [Docker bench security](https://github.com/docker/docker-bench-security) ⭐ 9,707 | 🐛 28 | 🌐 Shell | 📅 2026-06-04\
   The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
@@ -272,7 +272,7 @@ If you are seeking a skilled DevOps lead or architect to enhance your project, I
   Custom AppArmor profile generator for docker containers.
 * [docker-explorer](https://github.com/google/docker-explorer/) ⚠️ Archived\
   A tool to help forensicate offline docker acquisitions.
-* [oci-seccomp-bpf-hook](https://github.com/containers/oci-seccomp-bpf-hook) ⭐ 351 | 🐛 4 | 🌐 Go | 📅 2026-10-08\
+* [oci-seccomp-bpf-hook](https://github.com/containers/oci-seccomp-bpf-hook) ⭐ 351 | 🐛 4 | 🌐 Go | 📅 2026-10-20\
   OCI hook to trace syscalls and generate a seccomp profile.
 * [OpenSCAP](https://github.com/OpenSCAP/container-compliance) ⚠️ Archived\
   The OpenSCAP ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement and enforcement of security baselines.
@@ -408,4 +408,4 @@ If you can communicate or attack one of these as a privileged process, you can o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
